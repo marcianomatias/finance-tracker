@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 7
 
 * System dependencies
 
@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* This is the repo for the Finance Tracker App built with Ruby on Rails 7 from the 
+* Complete Ruby on Rails Developer course
